@@ -1,4 +1,4 @@
-# CoderHouse-Backend-32240-DesafioClase30
+# CoderHouse-Backend-32240-DesafioClase34
 ## Aplicación web de Ecommerce de productos con logger implementado.
 
 ### Para iniciar la aplicación
@@ -46,3 +46,5 @@ La ruta /loggerTest arroja un logger de cada tipo
 ### Detalles
 
 El programa arroja demasiados errores fatales por favicon y lectura de demás archivos
+
+Para que el servidor esté en producción y no muestre los loggers, el LOGGER del archivo .env debe ser "PRODUCTION"
